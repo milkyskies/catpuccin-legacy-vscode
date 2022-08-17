@@ -1,6 +1,5 @@
 {
-  "name": "catpuccin-old",
-
+  "name": "catpuccin-legacy",
   "colors": {
     "activityBar.background": "#1e1e2e",
     "activityBar.foreground": "#d9e0ee",

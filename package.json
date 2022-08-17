@@ -1,6 +1,6 @@
 {
-  "name": "catpuccin-old",
-  "displayName": "Catpuccin Old",
+  "name": "catpuccin-legacy",
+  "displayName": "Catpuccin Legacy",
   "description": "Color theme for the old catpuccin colors.",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "catpuccin-old",
+        "label": "catpuccin-legacy",
         "uiTheme": "vs-dark",
-        "path": "./themes/catpuccin-old-color-theme.json"
+        "path": "./themes/catpuccin-legacy-color-theme.json"
       }
     ]
   }
